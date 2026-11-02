@@ -1,0 +1,14 @@
+body {
+    
+}
+
+.opaqueContainer {
+   background-color: gray;
+   margin: auto;
+   height: 40%;
+   width: 90%;
+   border-radius: 5px;
+   text-align: center;
+}
+
+
