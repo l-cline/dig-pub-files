@@ -5,8 +5,8 @@ body {
 .opaqueContainer {
    background-color: gray;
    margin: auto;
-   height: 40%;
-   width: 90%;
+   height: 350px;
+   width: 500px;
    border-radius: 5px;
    text-align: center;
 }
