@@ -1,0 +1,87 @@
+@font-face {
+	font-family: "Goudy Old Style";
+	font-style: normal;
+	font-weight: bold;
+	src: url("../font/GOUDOSB.TTF");
+}
+@font-face {
+	font-family: "Goudy Old Style";
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/GOUDOS.TTF");
+}
+body, div, p, h1, h2, h3, h4, h5, h6, pre, blockquote, address, a, code {
+	margin: 0;
+	padding-bottom: 24px;
+	border-width: 0;
+	text-align: left;
+}
+div, span[id], em {
+	left: 0px;
+	position: relative;
+	top: 0px;
+	transform-origin: 0% 0%;
+}
+p, h1 {
+	line-height: 1;
+	text-rendering: optimizeSpeed;
+	white-space: pre;
+}
+stanza {
+	display: block;
+	line-height: 1;
+	margin: 0;
+	padding: 0;
+	border-width: 0;
+	text-rendering: optimizeSpeed;
+	white-space: pre;
+}
+div.text-frame {
+	border-style: solid;
+}
+.head_one {
+	font-family: Arial, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: normal;
+}
+.Body {
+	font-family: "Goudy Old Style", serif;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: normal;
+}
+.stanza {
+	font-family: "Goudy Old Style", serif;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: normal;
+}
+.Emphasis {
+	font-style: italic;
+}
+.style1 {
+	font-family: "Goudy Old Style", serif;
+	font-size: 72px;
+	font-weight: bold;
+}
+.style2 {
+	font-family: "Goudy Old Style", serif;
+	font-size: 60px;
+	font-style: normal;
+	
+}
+.style3 {
+	font-size: 54px;
+}
+.style4 {
+	font-family: "Goudy Old Style", serif;
+	font-size: 54px;
+}
+img.fill {
+	height: 50%;
+	left: 0px;
+	position: absolute;
+	top: 5%;
+	width: 50%;
+}
