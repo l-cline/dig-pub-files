@@ -1,0 +1,49 @@
+@font-face {
+	font-family: Cambria;
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/Cambria.ttf");
+}
+@font-face {
+	font-family: Cambria;
+	font-style: normal;
+	font-weight: bold;
+	src: url("../font/cambriab.ttf");
+}
+body, div, p, h1, h2, h3, h4, h5, h6, pre, blockquote, address, a, code {
+	margin: 0;
+	padding: 0;
+	border-width: 0;
+}
+div, span[id] {
+	left: 0px;
+	position: absolute;
+	top: 0px;
+	transform-origin: 0% 0%;
+}
+p {
+	line-height: 1;
+	text-rendering: optimizeSpeed;
+	white-space: pre;
+}
+div.text-frame {
+	border-style: solid;
+}
+.style1 {
+	font-family: Cambria, serif;
+	font-size: 960px;
+	font-style: normal;
+	font-weight: bold;
+}
+.style2 {
+	font-family: Cambria, serif;
+	font-size: 720px;
+	font-style: normal;
+	font-weight: normal;
+}
+.style3 {
+	font-family: Cambria, serif;
+	font-size: 480px;
+	font-style: normal;
+	font-weight: normal;
+}

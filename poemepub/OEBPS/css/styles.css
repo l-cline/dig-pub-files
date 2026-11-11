@@ -79,9 +79,8 @@ div.text-frame {
 	font-size: 54px;
 }
 img.fill {
-	height: 50%;
-	left: 0px;
+	height: 100%;
 	position: absolute;
 	top: 5%;
-	width: 50%;
+	width: 100%;
 }
